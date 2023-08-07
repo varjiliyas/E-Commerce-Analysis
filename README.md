@@ -1,5 +1,5 @@
-# E-Commerce-Analysis
-Introduction
+# Data Analysis using SQL and Pandas
+## Introduction
 
 In this notebook i will do some data cleaning and data analysis using SQL and Pandas.
 
